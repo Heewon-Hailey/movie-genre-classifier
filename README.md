@@ -24,7 +24,7 @@ Each movie with a unique movieID is provided with three different types of featu
 • Audio features - 20 pre-computed audio features from the movie trailer; each feature takes a continuous value<br>
 
 
-Movies are labelled as one of 18 different genres; Action, Adventure, Animation, Children, Comedy, Crime, Documentary, Drama, Fantasy’, ’Film noir, Horror, Musical, Mystery, Romance, Sci fi, Thriller, War, and Western
+Movies are labelled as one of 18 different genres; Action, Adventure, Animation, Children, Comedy, Crime, Documentary, Drama, Fantasy, Film noir, Horror, Musical, Mystery, Romance, Sci fi, Thriller, War, and Western
 
 ## Implemented models 
 
